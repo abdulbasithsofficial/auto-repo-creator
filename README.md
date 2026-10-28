@@ -1,3 +1,5 @@
+![Thumbnail](thumbnail.png)
+
 # AutoRepo-Agent
 Benefit: Creates a new GitHub repo project folder from a name, description and template, with README, LICENSE and .gitignore already in place — without overwriting anything that already exists.
 
